@@ -1,5 +1,5 @@
 # Image Processing 2
-Simple PGM image processing program.
+Simple PGM images processing program.
 
 ## Running the program
 After cloning the repository simply run ` make ` command. Later you can run the program using `./obrazy`.
